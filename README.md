@@ -4,6 +4,9 @@
 A comprehensive DevOps project demonstrating Git version 
 control and CI/CD pipeline automation using GitHub Actions.
 
+## CI/CD Pipeline Status
+![CI/CD](https://github.com/ibrahim-balogun/myproject/actions/workflows/main.yml/badge.svg)
+
 ## Technologies Used
 - Git & GitHub
 - GitHub Actions (CI/CD)
